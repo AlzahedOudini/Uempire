@@ -129,7 +129,7 @@ function Navbar() {
                         <FaBars className='text-white hover:text-[#FFB040]'/>: <FaBars className='text-black hover:text-[#FFB040]'/>
                     }
                 </div>
-                {show && <SideBar myClick = {myClick} />}
+                {show && <SideBar myClick={myClick} />}
             </div>
         </nav>
     </div>

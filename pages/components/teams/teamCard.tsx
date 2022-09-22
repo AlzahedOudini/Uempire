@@ -2,9 +2,9 @@ import React, { FC } from 'react';
 import Image from 'next/image';
 
 type TeamCardProps = {
-  profilPic: 'string',
-  name: 'string',
-  poste:'string'
+  profilPic: string,
+  name: string,
+  poste: string
 }
 
 const TeamCard: FC<TeamCardProps> = ({profilPic, name, poste}) => {

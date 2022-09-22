@@ -1,4 +1,4 @@
-/* eslint-disable react/no-unescaped-entities */
+
 import React from 'react';
 import { AiFillApple } from 'react-icons/ai';
 import { FaGooglePlay } from 'react-icons/fa';

@@ -1,5 +1,4 @@
 
-/* eslint-disable react/no-unescaped-entities */
 import type { NextPage } from 'next';
 import Aboutsec from './components/aboutsec/aboutsec';
 import Devis from './components/devis/devis';
