@@ -1,10 +1,14 @@
-import React from 'react';
+import React, { FC } from 'react';
 import Link from 'next/link';
 import {VscChromeClose} from 'react-icons/vsc';
 import { FaWhatsapp } from 'react-icons/fa';
 import { MdOutlineEmail } from 'react-icons/md';
 
-function SideBar(props) {
+interface Props {
+  myClick: () => void;
+}
+
+function SideBar(props: Props) {
   return (
     <div className='mySidebar'>
         <div className='closeIcon' >
