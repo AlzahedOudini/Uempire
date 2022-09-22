@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Victor Urbain",
+        "poste": "Fondateur",
+        "profilPic": "https://i.ibb.co/tKBWZQs/aiony-haust-3-TLl-97-HNJo-unsplash.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Babbel Kitio",
+        "poste": "Developpeur Back-end",
+        "profilPic": "https://i.ibb.co/4t44pBY/hamed-foroutan-8-Wsf-FDu-K1l0-unsplash.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Loic Sonwa",
+        "poste": "Developpeur Mobile",
+        "profilPic": "https://i.ibb.co/tKBWZQs/aiony-haust-3-TLl-97-HNJo-unsplash.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Alzahe Oudini",
+        "poste": "UI-UX Designer",
+        "profilPic": "https://i.ibb.co/4t44pBY/hamed-foroutan-8-Wsf-FDu-K1l0-unsplash.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Emile Ngollo",
+        "poste": "Analyste informatique",
+        "profilPic": "https://i.ibb.co/tKBWZQs/aiony-haust-3-TLl-97-HNJo-unsplash.jpg"
+    }
+]
