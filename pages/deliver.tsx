@@ -5,30 +5,19 @@ import mocks from './assets/mock.svg';
 import mi from './assets/mi.svg';
 import hands from './assets/hands.svg';
 import uDeliver from './assets/udeliv-w.svg';
-import Footer from './components/footer/footer';
 import 'react-phone-input-2/lib/style.css';
-import { BsClockHistory } from 'react-icons/bs';
 import { HiOutlineArrowRight } from 'react-icons/hi';
 import { AiFillApple } from 'react-icons/ai';
 import { FaGooglePlay } from 'react-icons/fa';
-import TextField from '@mui/material/TextField';
-import Accordion from './components/accordion/accordion';
-import {
-    Modal,
-    ModalOverlay,
-    ModalContent,
-    ModalHeader,
-    ModalFooter,
-    ModalBody,
-    ModalCloseButton,
-    useDisclosure,
-    Button,
-    Link,
-  } from '@chakra-ui/react';
-import FooterOther from './components/footer/footerOther';
 
-function Deliver(this: any) {
-    const { isOpen, onOpen, onClose } = useDisclosure()
+
+import FooterOther from './components/footer/footerOther';
+import Link from 'next/link';
+
+// const Link = (props: any) => <a href={props.href}>{props.children}</a>;
+
+function Deliver() {
+    
   return (
     <div className='text-[#181818]'>
         <section className=' deliver h-[86vh] w-full bg-[#ffffff] grid  gap-4 grid-cols-2'>
@@ -47,7 +36,9 @@ function Deliver(this: any) {
                      livrer de délicieux repas avec l&apos;application UDelivery.
                 </p>
                 <div className='py-6'>
-                    <Link href="/inscriptionDeliver"><button className='px-8 py-4 gap-4 text-[#ffffff] bg-[#252036] rounded-md hover:bg-transparent border-2 border-[#252036] hover:text-[#181818] transition-all duration-300'>Postulez dès maintenant</button> </Link>
+                    <Link href="/inscriptionDeliver">
+                        <button className='px-8 py-4 gap-4 text-[#ffffff] bg-[#252036] rounded-md hover:bg-transparent border-2 border-[#252036] hover:text-[#181818] transition-all duration-300'>Postulez dès maintenant</button>
+                    </Link>
                 </div>
                 {/* <p className='uppercase mt-6 mb-4 font-medium text-sm text-[#a9abb2]'>VILLES POPULAIRES AU camereroun</p>
                 <div className="cities flex gap-4 ">
@@ -174,7 +165,9 @@ function Deliver(this: any) {
             <div className='flex flex-col justify-center items-center text-[#181818] '>
                 <h1 className='text-5xl mb-4 font-semibold'>Prêt à embarquer ?</h1>
                 <p className='mb-4'>Rejoins-nous dès aujourd’hui !</p>
-                <Link href="/inscriptionDeliver"><button className='px-8 py-4 gap-4 text-[#ffffff] bg-[#252036] rounded-md transition-all duration-300'>Postulez dès maintenant</button> </Link>
+                <Link href="/inscriptionDeliver">
+                    <button className='px-8 py-4 gap-4 text-[#ffffff] bg-[#252036] rounded-md transition-all duration-300'>Postulez dès maintenant</button>
+                </Link>
             </div>
         </section>
         

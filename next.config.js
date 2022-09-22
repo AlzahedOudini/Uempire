@@ -8,8 +8,8 @@ module.exports = {
   images: {
     domains: ['images.unsplash.com', 'i.ibb.co']
   },
-  i18n: {
-    locales: ['en-US','fr'],
-    defaultLocale: 'fr',
-  },
+  // i18n: {
+  //   locales: ['en-US','fr'],
+  //   defaultLocale: 'fr',
+  // },
 }
