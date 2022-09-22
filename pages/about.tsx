@@ -1,4 +1,4 @@
-/* eslint-disable react/no-unescaped-entities */
+
 import React from 'react';
 import Image from 'next/image';
 import uemp from './assets/uem.png';
@@ -26,17 +26,17 @@ function About() {
               d'experts élabore des plans de travail personnalisés en tenant compte de la vigueur du marché. Nous 
               essayons constamment de faire preuve d'excellence dans tous les projets complexes afin d'encadrer
                et d'amplifier les capacités exceptionnelles d'une manière agile. */}
-               <strong>UEMPIRE</strong> se veut être une entreprise de proposition de services technologiques axée sur l’innovation, la créativité et l’efficacité.
+               <strong>UEMPIRE</strong> se veut être une entreprise de proposition de services technologiques axée sur l&apos;innovation, la créativité et l&apos;efficacité.
 
               Elle est constituée de jeunes, qui excellent chacun dans son domaine, et produit des systèmes informatiques robustes et sécurisées répondant à des problématiques courantes de bien-être des populations : nutrition, transport, accessibilité, et sciences humaines.   
 
-              <br /> Chez UEMPIRE, nous appliquons une approche axée sur l'humain, pour créer des solutions numériques, bâtir nos équipes et établir notre relation cliente.
+              <br /> Chez UEMPIRE, nous appliquons une approche axée sur l&apos;humain, pour créer des solutions numériques, bâtir nos équipes et établir notre relation cliente.
 
-              UEMPIRE, la garantie d’un service de qualité ! <br />
+              UEMPIRE, la garantie d&apos;un service de qualité ! <br />
 
               <strong>Notre Mission:</strong> proposer des solutions numériques robustes, accessibles et adaptées à chaque environnement.   <br />
 
-              <strong>Notre Vision:</strong> se situer parmi les meilleures entreprises de conception des solutions digitales et innovantes pour une amélioration continue de l’expérience humain.<br />
+              <strong>Notre Vision:</strong> se situer parmi les meilleures entreprises de conception des solutions digitales et innovantes pour une amélioration continue de l&apos;expérience humain.<br />
 
               <strong>Nos Valeurs:</strong> Humain, Détermination, Respect, Innovation, Passion.  
 

@@ -1,4 +1,4 @@
-/* eslint-disable react/no-unescaped-entities */
+
 import React from 'react';
 import BackTopBtn from './components/backToTop/backTopBtn';
 import Footer from './components/footer/footer';
@@ -17,20 +17,20 @@ function Privacypolicy() {
                 personnelles telles que définies par les lois et règlements applicables , 
                 qui UEmpire et (ou) ses entités affiliées, y compris toutes les entités 
                 appartenant au même groupe que UEmpire, peuvent obtenir lorsque 
-                vous utilisez l'un des sites Web, programmes, produits ou services 
+                vous utilisez l&apos;un des sites Web, programmes, produits ou services 
                 UEmpire, (services) des informations dont vous pouvez trouver sur les 
-                Sites Web, ainsi que pendant l'exécution de tout contrat ou accord que 
+                Sites Web, ainsi que pendant l&apos;exécution de tout contrat ou accord que 
                 UEmpire conclut avec vous dans le cadre de votre utilisation des 
                 Services. En outre, les Informations Personnelles peuvent être obtenues 
-                par UEmpire par l'intermédiaire de ses partenaires (« Partenaires »), tels 
+                par UEmpire par l&apos;intermédiaire de ses partenaires (« Partenaires »), tels 
                 que des partenaires publicitaires ou des fournisseurs de services de 
-                restaurants qui vous donnent accès ou vous permettent d'utiliser des 
+                restaurants qui vous donnent accès ou vous permettent d&apos;utiliser des 
                 sites Web, programmes, produits ou services détenus ou exploités par 
                 eux. Les partenaires ne peuvent fournir des Informations Personnelles à 
                 UEmpire que comme stipulé par les lois et réglementations applicables 
                 et conformément aux accords spéciaux entre UEmpire et chacun des 
                 partenaires <br />
-                Veuillez noter que votre utilisation de l'un des Sites et/ou Services peut 
+                Veuillez noter que votre utilisation de l&apos;un des Sites et/ou Services peut 
                 être soumise à des conditions générales supplémentaires qui peuvent 
                 modifier et/ou compléter la présente Politique et (ou) inclure des 
                 conditions de confidentialité spécifiques dans les parties pertinentes des 
@@ -38,12 +38,12 @@ function Privacypolicy() {
             </p>
             <h2 className='text-2xl font-bold mb-5 mt-5'>2. Qui traite vos informations personnelles </h2>
             <p>
-                Pour vous permettre d'accéder aux Sites et Services, vos 
+                Pour vous permettre d&apos;accéder aux Sites et Services, vos 
                 Informations Personnelles sont collectées et utilisées par UEmpire qui 
                 peut inclure la société des droits camerounaises, ou ses sociétés affiliées 
                 pour des Services particuliers ou dans des juridictions spécifiques. Vous 
-                pouvez trouver des informations sur l'entité qui fournit le Service 
-                particulier dans les conditions d'utilisation du Service concerné.
+                pouvez trouver des informations sur l&apos;entité qui fournit le Service 
+                particulier dans les conditions d&apos;utilisation du Service concerné.
             </p>
             <h2 className='text-2xl font-bold mb-5 mt-5'>3. Quel est le but de cette Politique </h2>
             <p>
@@ -62,29 +62,29 @@ function Privacypolicy() {
                     lorsque vous accédez aux Sites ou aux Services</p>
                 </li>
                 <li><p><strong>b.</strong> rôle et responsabilités de UEmpire dans ce contexte en tant 
-                    qu'entité légale qui décide pourquoi et comment vos Informations 
+                    qu&apos;entité légale qui décide pourquoi et comment vos Informations 
                     Personnelles sont traitées</p>
                 </li>
                 <li><p><strong>c.</strong> quels instruments vous pouvez utiliser pour limiter la quantité 
-                d'Informations Personnelles collectées par UEmpire</p>
+                d&apos;Informations Personnelles collectées par UEmpire</p>
                 </li>
                 <li><p><strong>d.</strong> quels sont vos droits par rapport au traitement ci-dessus.</p>
                 </li>
             </ul>
-            <h2 className='text-2xl font-bold mb-5 mt-5'>4. Quel type d'Informations Personnelles sont collectées par UEmpire </h2>
+            <h2 className='text-2xl font-bold mb-5 mt-5'>4. Quel type d&apos;Informations Personnelles sont collectées par UEmpire </h2>
             <p>
                 Lorsque vous utilisez les Sites et/ou Services, les Informations 
                 Personnelles collectées peuvent différer selon que vous accédez aux 
-                Sites ou Services avec connexion à votre compte d'utilisateur UFood ou 
+                Sites ou Services avec connexion à votre compte d&apos;utilisateur UFood ou 
                 sans vous connecter. Lorsque vous êtes connecté à votre compte 
-                d'utilisateur UFood lors de l'utilisation des Sites ou Services, les 
+                d&apos;utilisateur UFood lors de l&apos;utilisation des Sites ou Services, les 
                 Informations Personnelles collectées par UEmpire peuvent être 
-                comparées et combinées avec d'autres Informations Personnelles (telles 
+                comparées et combinées avec d&apos;autres Informations Personnelles (telles 
                 que votre identité, vos coordonnées, votre âge et votre sexe, si vous avez 
                 partagé ces informations avec nous) qui sont stockées par UEmpire sur 
-                votre compte d'utilisateur. UEmpire ne vérifie pas les Informations 
+                votre compte d&apos;utilisateur. UEmpire ne vérifie pas les Informations 
                 Personnelles que vous fournissez, sauf disposition contraire dans les 
-                Conditions d'utilisation ou l'Accord de licence des Services concernés, et 
+                Conditions d&apos;utilisation ou l&apos;Accord de licence des Services concernés, et 
                 ne décide pas de leur crédibilité ou si vous avez la capacité juridique 
                 requise. Cependant, UEmpire suppose que les informations que vous 
                 fournissez sont vraies, suffisamment complètes et actualisées. <br />
@@ -95,25 +95,25 @@ function Privacypolicy() {
             </p>
             <ul className='ml-5 mt-4'>
                 <li><p><strong>1.</strong> les informations que vous fournissez lorsque vous enregistrez (créez) 
-                    un compte d'utilisateur, telles que votre nom, numéro de téléphone 
+                    un compte d&apos;utilisateur, telles que votre nom, numéro de téléphone 
                     portable, adresse et âge</p>
                 </li>
                 <li><p><strong>2.</strong> données électroniques (en-têtes http, adresse IP, cookies, balises 
                     Web / pixels invisibles, informations du navigateur, informations sur 
                     votre matériel et vos logiciels, données du réseau Wi-Fi)</p>
                 </li>
-                <li><p><strong>3.</strong> date et heure d'accès aux Sites ou Services</p>
+                <li><p><strong>3.</strong> date et heure d&apos;accès aux Sites ou Services</p>
                 </li>
-                <li><p><strong>4.</strong> informations relatives à votre activité lors de l'utilisation des Sites ou 
+                <li><p><strong>4.</strong> informations relatives à votre activité lors de l&apos;utilisation des Sites ou 
                     des Services (par exemple, votre historique de recherche, les données 
                     sur les achats dans les Services, les données sur les organisations 
                     visitées, les likes et les préférences, les adresses e-mail de vos contacts, 
                     les données de votre répertoire téléphonique, les informations sur 
-                    l'interaction avec d'autres utilisateurs, ainsi que les fichiers et le contenu 
+                    l&apos;interaction avec d&apos;autres utilisateurs, ainsi que les fichiers et le contenu 
                     stockés dans les systèmes UEmpire)</p>
                 </li>
                 <li><p><strong>5.</strong> informations de géolocalisation</p> </li>
-                <li><p><strong>6.</strong> d'autres informations vous concernant qui doivent être traitées 
+                <li><p><strong>6.</strong> d&apos;autres informations vous concernant qui doivent être traitées 
                     conformément aux conditions générales de tout site ou service 
                     spécifique de UEmpire</p>
                 </li>
@@ -131,22 +131,22 @@ function Privacypolicy() {
                 UEmpire ne collecte pas activement de données personnelles sensibles 
                 (telles que les origines raciales, les opinions politiques, la santé ou les 
                 données biométriques), sauf indication contraire dans les Conditions 
-                d'utilisation des Services concernés. Cependant, vous pouvez 
+                d&apos;utilisation des Services concernés. Cependant, vous pouvez 
                 volontairement nous fournir ces données et nous pouvons les traiter 
                 dans le cadre de la fourniture de nos Services (par exemple, si vous 
                 effectuez des recherches liées à votre santé). Car nous ne connaissons 
-                pas à l'avance la nature potentiellement sensible des données 
+                pas à l&apos;avance la nature potentiellement sensible des données 
                 personnelles que vous pouvez nous fournir, vous devez être conscient 
-                qu'il est possible que nous ne pourrons pas demander votre 
+                qu&apos;il est possible que nous ne pourrons pas demander votre 
                 consentement pour un tel traitement. <br />
-                UEmpire n'effectue aucune forme de profilage susceptible d'avoir un 
+                UEmpire n&apos;effectue aucune forme de profilage susceptible d&apos;avoir un 
                 impact significatif sur vos droits et libertés conformément aux lois 
                 applicables.
             </p>
             <h2 className='text-2xl font-bold mb-5 mt-5'>5. Quelle est la base légale du traitement de vos Informations Personnelles et quels sont les buts de celui-ci </h2>
             <p>
-                UEmpire n'est pas autorisée à traiter vos Informations 
-                Personnelles si UEmpire n'a pas de fondement juridique valable. 
+                UEmpire n&apos;est pas autorisée à traiter vos Informations 
+                Personnelles si UEmpire n&apos;a pas de fondement juridique valable. 
                 UEmpire traitera donc vos Informations Personnelles que si :
             </p>
             <ul className='ml-5 mt-4'>
@@ -154,7 +154,7 @@ function Privacypolicy() {
                     <p>
                         <strong>1.</strong> le traitement est nécessaire pour exécuter nos obligations 
                         contractuelles envers vous, y compris vous fournir des Sites et/ou des 
-                        Services (c'est-à-dire vous fournir les résultats de votre requête de 
+                        Services (c&apos;est-à-dire vous fournir les résultats de votre requête de 
                         recherche)
                     </p>
                 </li>
@@ -167,7 +167,7 @@ function Privacypolicy() {
                 <li>
                     <p>
                         <strong>3.</strong> dans le cas où la loi applicable le prévoit, le traitement est nécessaire 
-                        aux intérêts légitimes de UEmpire et n'affecte pas indûment vos intérêts 
+                        aux intérêts légitimes de UEmpire et n&apos;affecte pas indûment vos intérêts 
                         ou vos droits et libertés fondamentaux. Veuillez noter que lorsque nous 
                         traitons vos Informations Personnelles sur cette base, nous chercherons 
                         toujours à maintenir un équilibre entre notre intérêt légitime et la 
@@ -184,14 +184,14 @@ function Privacypolicy() {
                             </li>
                             <li>
                                 <p>
-                                    <strong>b.</strong> pour améliorer, maintenir l'accessibilité, modifier, personnaliser ou 
+                                    <strong>b.</strong> pour améliorer, maintenir l&apos;accessibilité, modifier, personnaliser ou 
                                     autrement améliorer les Sites et Services au profit de tous les utilisateurs 
                                 </p>
                             </li>
                             <li>
                                 <p>
-                                    <strong>c.</strong> pour vous offrir d'autres produits et services de UEmpire ou d'autres 
-                                    sociétés qui, selon nous, pourraient vous intéresser (c'est-à-dire de la 
+                                    <strong>c.</strong> pour vous offrir d&apos;autres produits et services de UEmpire ou d&apos;autres 
+                                    sociétés qui, selon nous, pourraient vous intéresser (c&apos;est-à-dire de la 
                                     publicité ciblée personnellement).
                                 </p>
                             </li>
@@ -205,12 +205,12 @@ function Privacypolicy() {
                         ce consentement est requis en vertu des lois et réglementations 
                         applicables. Dans les juridictions dans lesquelles le consentement 
                         constitue la base juridique, vous donnez ce consentement en acceptant 
-                        d'utiliser nos Sites et/ou Services. Nous vous informons par la présente, 
-                        et vous reconnaissez par la présente, que vous n'avez aucune obligation 
+                        d&apos;utiliser nos Sites et/ou Services. Nous vous informons par la présente, 
+                        et vous reconnaissez par la présente, que vous n&apos;avez aucune obligation 
                         légale de nous fournir des Informations Personnelles lorsque vous 
                         utilisez les Sites ou les Services, et vous ne les fournissez que de votre 
                         plein gré. Cependant, vous êtes averti que sans la fourniture 
-                        d'Informations Personnelles nous ne serons pas en mesure de vous 
+                        d&apos;Informations Personnelles nous ne serons pas en mesure de vous 
                         fournir des Services et votre utilisation des Sites sera limitée. <br />
                         UEmpire traite toujours vos Informations Personnelles dans un but 
                         précis et ne traite que les Informations Personnelles pertinentes pour 
@@ -220,10 +220,10 @@ function Privacypolicy() {
                         <ul className='ml-5 mt-4 mb-4'>
                             <li>
                                 <p>
-                                    <strong>1.</strong> de vous fournir les Sites et/ou Services (c'est-à-dire la livraison de 
+                                    <strong>1.</strong> de vous fournir les Sites et/ou Services (c&apos;est-à-dire la livraison de 
                                     résultats de recherche en réponse à vos requêtes de recherche, en 
                                     tenant compte de vos préférences, de votre historique de recherche et 
-                                    d'autres Informations Personnelles vous concernant disponibles pour 
+                                    d&apos;autres Informations Personnelles vous concernant disponibles pour 
                                     UEmpire)
                                 </p>
                             </li>
@@ -232,7 +232,7 @@ function Privacypolicy() {
                             </li>
                             <li>
                                 <p>
-                                    <strong>2.</strong> de vous fournir l'accès à votre compte d'utilisateur, y compris votre 
+                                    <strong>2.</strong> de vous fournir l&apos;accès à votre compte d&apos;utilisateur, y compris votre 
                                     service de messagerie et de stockage, si vous avez un compte pour ces 
                                     Services
                                 </p>
@@ -247,13 +247,13 @@ function Privacypolicy() {
                             <li>
                                 <strong>4.</strong> de personnaliser les publicités et/ou les offres commerciales en 
                                 fonction de vos préférences, de votre historique de recherche et 
-                                d'autres Informations Personnelles disponibles pour UEmpire
+                                d&apos;autres Informations Personnelles disponibles pour UEmpire
                             </li>
                             <li>
                                 <p>
-                                    <strong>5.</strong> d'améliorer l'expérience d'utilisateur, notamment en offrant des 
+                                    <strong>5.</strong> d&apos;améliorer l&apos;expérience d&apos;utilisateur, notamment en offrant des 
                                     résultats de recherche plus pertinents et des Sites et/ou Services plus 
-                                    personnalisés, ainsi qu'en améliorant d'autres produits, applications et 
+                                    personnalisés, ainsi qu&apos;en améliorant d&apos;autres produits, applications et 
                                     services UEmpire
                                 </p>
                             </li>
@@ -270,8 +270,8 @@ function Privacypolicy() {
                             <li>
                                 <p>
                                     <strong>8.</strong> de collecter, traiter et présenter des données statistiques ou des 
-                                    données massives, ou d'effectuer d'autres recherches et/ou analyses 
-                                    d'Informations Personnelles. 
+                                    données massives, ou d&apos;effectuer &apos;autres recherches et/ou analyses 
+                                    d&apos;Informations Personnelles. 
                                 </p>
                             </li>
                         </ul>
@@ -283,13 +283,13 @@ function Privacypolicy() {
                         
                         
                         
-                        Les informations reçues à partir de l'API Google <strong>Données Reçues</strong> dans 
+                        Les informations reçues à partir de l&apos;API Google <strong>Données Reçues</strong> dans 
                         les Services de UEmpire sont utilisées conformément à la Divulgation de 
-                        l'API Google sous réserve des restrictions qui y sont spécifiées, à savoir :
+                        l&apos;API Google sous réserve des restrictions qui y sont spécifiées, à savoir :
                         Uempire utilise les Données Reçues pour vous fournir les fonctions du 
                         Client de Messagerie. Les Données Reçues ne sont pas offertes pour 
-                        l'utilisation par des tiers, afficher du matériel publicitaire et à d'autres 
-                        fins liées à l'accès non autorisé au contenu de votre correspondance.
+                        l&apos;utilisation par des tiers, afficher du matériel publicitaire et à d&apos;autres 
+                        fins liées à l&apos;accès non autorisé au contenu de votre correspondance.
 
                     </p>
                 </li>
@@ -302,7 +302,7 @@ function Privacypolicy() {
                 Dans la plupart des cas, les Informations Personnelles sont 
                 traitées automatiquement sans que notre personnel y ait accès. 
                 Cependant, si un tel accès est requis, seuls les employés de UEmpire
-                dont les responsabilités professionnelles nécessitent l'utilisation de ces 
+                dont les responsabilités professionnelles nécessitent l&apos;utilisation de ces 
                 informations peuvent accéder à vos Informations Personnelles. Pour 
                 protéger vos Informations Personnelles et assurer leur confidentialité, 
                 ces employés doivent observer les règles internes et suivre les 
@@ -311,20 +311,20 @@ function Privacypolicy() {
                 organisationnelles qui protègent vos Informations Personnelles. <br />
                 UEmpire a également mis en place des mesures techniques et 
                 organisationnelles adéquates pour protéger les Informations 
-                Personnelles contre la destruction, la perte, l'altération, l'utilisation 
-                abusive, la divulgation ou l'accès non autorisés, accidentels ou illicites et 
+                Personnelles contre la destruction, la perte, l&apos;altération, l&apos;utilisation 
+                abusive, la divulgation ou l&apos;accès non autorisés, accidentels ou illicites et 
                 contre toutes les autres formes de traitement illicites. Ces mesures de 
-                sécurité ont été mises en place en tenant compte de l'état de la 
+                sécurité ont été mises en place en tenant compte de l&apos;état de la 
                 technique, de leur coût de mise en œuvre, des risques associés au 
                 traitement et de la nature des Informations Personnelles.
             </p>
-            <h2 className='text-2xl font-bold mb-5 mt-5'>7. Qui d'autre a accès à vos Informations Personnelles et avec qui sont-elles partagées</h2>
+            <h2 className='text-2xl font-bold mb-5 mt-5'>7. Qui d&apos;autre a accès à vos Informations Personnelles et avec qui sont-elles partagées</h2>
             <h3 className='text-2xl font-bold mb-5'>7.1. Dans le cadre de UEmpire</h3>
             <p>
                 UEmpire peut transmettre vos Informations personnelles à ses 
                 employés. UEmpire peut également transférer vos informations 
                 personnelles à ses entités affiliées, y compris les sociétés 
-                appartenant à un groupe d'individus appartenant à UEmpire. Dans 
+                appartenant à un groupe d&apos;individus appartenant à UEmpire. Dans 
                 tous les cas, les Informations personnelles seront également 
                 traitées uniquement aux fins visées dans la partie 5 de la présente 
                 Politique.
@@ -457,7 +457,7 @@ function Privacypolicy() {
                 satisfait pas, veuillez nous en faire part et nous examinerons vos 
                 réclamations.
             </p>
-            <h2 className='text-2xl font-bold mb-5 mt-5'>11. Pourquoi utilisons-nous des cookies et d'autres technologies similaires sur les Sites ou dans les Services</h2>
+            <h2 className='text-2xl font-bold mb-5 mt-5'>11. Pourquoi utilisons-nous des cookies et d&apos;autres technologies similaires sur les Sites ou dans les Services</h2>
             <h3 className='text-2xl font-bold mb-5'> 11.1. Que sont les fichiers cookie et dans quel but Uempire les utilise-t-il </h3>
             <p>
                 Les fichiers cookie sont de petits fichiers textuels stockés sur l’appareil 

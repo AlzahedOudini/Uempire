@@ -1,5 +1,4 @@
 import React, {useState} from 'react';
-import AccordionUI from './accordionUI';
 
 function Accordion() {
 
@@ -29,13 +28,13 @@ function Accordion() {
     ]
   return (
     <div className='flex flex-col justify-center items-center md:mt-32 md:mx-60 p-10 rounded-xl h-auto py-20 bg-gray-50 '>
-        {
+        {/* {
             data && data.map((data) =>{
                 return(
                     <AccordionUI title={data.myquestion} id={data.id} children={data.answer} index={Index} setIndex={setIndex} />
                 );
             })
-        }
+        } */}
     </div>
   )
 }

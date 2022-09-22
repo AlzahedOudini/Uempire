@@ -1,4 +1,4 @@
-/* eslint-disable react/no-unescaped-entities */
+
 import React from 'react';
 import about from '../../assets/about.svg';
 import victor from '../../assets/victor.jpg';
@@ -25,13 +25,13 @@ function Aboutsec() {
             <p className='descrip text-justify'>
             <strong>UEMPIRE</strong>, <br /> <br />
 
-            L’Empire Urbain est un rêve qui se réalise. <br />
+            L&apos;Empire Urbain est un rêve qui se réalise. <br />
             
-            Depuis ma tendre enfance, j’ai toujours souhaité contribuer à ma manière à la création des solutions technologiques modernes et adaptées aux populations, capables de répondre à leur besoin. C’est de cette volonté que nait <strong>UEMPIRE</strong>. 
+            Depuis ma tendre enfance, j&apos;ai toujours souhaité contribuer à ma manière à la création des solutions technologiques modernes et adaptées aux populations, capables de répondre à leur besoin. C&apos;est de cette volonté que nait <strong>UEMPIRE</strong>. 
 
             Sa mission principale est de faire de rendre notre population des personnes heureuses et habiles dans leur quotidien, en les fournissant des services de qualité, taillées à leur besoin et dans les délais impartis.
             
-            Concevoir et réaliser des solutions web et mobiles sur mesure pour rendre notre clientèle   leader dans leurs secteurs d'activité.
+            Concevoir et réaliser des solutions web et mobiles sur mesure pour rendre notre clientèle   leader dans leurs secteurs d&apos;activité.
             
             Organisme gouvernemental et non gouvernemental, entreprises privées et publiques, votre confiance nous honore !
 

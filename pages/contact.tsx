@@ -1,4 +1,4 @@
-/* eslint-disable react/no-unescaped-entities */
+
 import React from 'react';
 import BackTopBtn from './components/backToTop/backTopBtn';
 import Footer from './components/footer/footer';
@@ -10,7 +10,7 @@ function Contact() {
       <Navbar/>
       <section className='privsection'>
         <div>
-          <h1 className='text-4xl font-bold ' data-aos='fade-up' data-aos-delay='300' data-aos-duration="1000">Nous sommes impatients d'avoir de vos nouvelles</h1>
+          <h1 className='text-4xl font-bold ' data-aos='fade-up' data-aos-delay='300' data-aos-duration="1000">Nous sommes impatients d&apos;avoir de vos nouvelles</h1>
           <p className='xl:w-3/4 mt-6' data-aos='fade-up' data-aos-delay='300'>Tout notre savoir-faire pour une meilleure expérience client !  Contacter nous, et ne vous garantissons un service de qualité. </p>
         </div>
         <div className='p-6 bg-[#fafaf8] rounded-lg mt-6'>

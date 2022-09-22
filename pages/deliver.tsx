@@ -1,4 +1,4 @@
-/* eslint-disable react/no-unescaped-entities */
+
 import React from 'react';
 import Image from 'next/image';
 import mocks from './assets/mock.svg';
@@ -44,7 +44,7 @@ function Deliver(this: any) {
                 <h1 className='text-5xl font-semibold text-[#181818] my-8'>Livrez avec <strong className='text-[#252036]'>UDelivery</strong></h1>
                 <h4 className='text-2xl font-semibold mb-4'>Pas de patron, Des horaires flexibles, Des paiements rapides.</h4>
                 <p>Vous pouvez générer des revenus en sillonnant les rues de votre ville pour
-                     livrer de délicieux repas avec l'application UDelivery.
+                     livrer de délicieux repas avec l&apos;application UDelivery.
                 </p>
                 <div className='py-6'>
                     <Link href="/inscriptionDeliver"><button className='px-8 py-4 gap-4 text-[#ffffff] bg-[#252036] rounded-md hover:bg-transparent border-2 border-[#252036] hover:text-[#181818] transition-all duration-300'>Postulez dès maintenant</button> </Link>
@@ -102,7 +102,7 @@ function Deliver(this: any) {
                     />
                     <div className='p-6 w-8 h-8 border border-white rounded-full flex items-center justify-center'>1</div>
                     <h1 className='font-bold text-2xl'>Accepter la course</h1>
-                    <p>Ayant activé l'option connecté, vous recevrez des courses et vous pouver l'accepter</p>
+                    <p>Ayant activé l&apos;option connecté, vous recevrez des courses et vous pouver l&apos;accepter</p>
                 </div>
                 <div className="flex justify-center items-center"> <HiOutlineArrowRight className='text-6xl text-[#ffffff]' /> </div>
                 <div className="flex gap-4 justify-center items-center text-center  flex-col text-[#ffffff]">
@@ -115,7 +115,7 @@ function Deliver(this: any) {
                     />
                     <div className='p-6 w-8 h-8 border border-white rounded-full flex items-center justify-center'>2</div>
                     <h1 className='font-bold text-2xl'>Accepter la course</h1>
-                    <p>Ayant activé l'option connecté, vous recevrez des courses et vous pouver l'accepter</p>
+                    <p>Ayant activé l&apos;option connecté, vous recevrez des courses et vous pouver l&apos;accepter</p>
                 </div>
                 <div className="flex justify-center items-center"> <HiOutlineArrowRight className='text-6xl text-[#ffffff]' /> </div>
 
@@ -129,7 +129,7 @@ function Deliver(this: any) {
                     />
                     <div className='p-6 w-8 h-8 border border-white rounded-full flex items-center justify-center'>3</div>
                     <h1 className='font-bold text-2xl'>Accepter la course</h1>
-                    <p>Ayant activé l'option connecté, vous recevrez des courses et vous pouver l'accepter</p>
+                    <p>Ayant activé l&apos;option connecté, vous recevrez des courses et vous pouver l&apos;accepter</p>
                 </div>
             </div>
         </section>

@@ -1,4 +1,4 @@
-/* eslint-disable react/no-unescaped-entities */
+
 import Link from 'next/link';
 import React from 'react';
 import { AiFillApple } from 'react-icons/ai';
@@ -85,7 +85,7 @@ function InscriptionDeliver() {
                                     <textarea className='form-control bg-[#eeeeee] w-full  px-6 pt-4 pb-8 rounded-lg' placeholder='Ecrivez quelque chose'></textarea> 
                                 </label>                          
                             </div>
-                            <h1 className='my-4 text-3xl font-semibold text-center mt-4'>Personne à contacter en cas d'urgence</h1>
+                            <h1 className='my-4 text-3xl font-semibold text-center mt-4'>Personne à contacter en cas d&apos;urgence</h1>
                             <div className='grid grid-cols-2 gap-4 mt-6'>
                                 <div>
                                     <label htmlFor="" className='block w-full'>

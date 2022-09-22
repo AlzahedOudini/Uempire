@@ -32,7 +32,7 @@ function Restaurant() {
                 <h1 className='text-5xl font-semibold text-[#F60D2B] my-8'>Commandez avec <strong className='text-[#F60D2B]'>Ufood</strong></h1>
                 <h4 className='text-2xl font-semibold mb-4 text-[#181818]'>Un partenariat de confiance qui tient ses promesses.</h4>
                 <p className='text-[#181818]'>Vous pouvez générer des revenus en sillonnant les rues de votre ville pour
-                     livrer de délicieux repas avec l'application UDelivery.
+                     livrer de délicieux repas avec l&apos;application UDelivery.
                 </p>
                 {/* <div className='py-6'>
                     <Link href="/inscriptionDeliver"><button className='px-8 py-4 gap-4 text-[#ffffff] bg-[#252036] rounded-md hover:bg-transparent border-2 border-[#252036] hover:text-[#181818] transition-all duration-300'>Postulez dès maintenant</button> </Link>
@@ -55,7 +55,7 @@ function Restaurant() {
         </section>
         <section className='px-32 py-16 bg-[#ffffff]'>
             <div className='flex justify-center items-center w-full'>
-            <h1 className='mb-8 text-4xl w-[70%] font-semibold text-center text-[#181818]'>UFood est votre porte d'entrée pour gérer votre <strong className='text-[#F60D2B]'>activité </strong> de <strong className='text-[#F60D2B]'>livraison.</strong></h1>
+            <h1 className='mb-8 text-4xl w-[70%] font-semibold text-center text-[#181818]'>UFood est votre porte d&apos;entrée pour gérer votre <strong className='text-[#F60D2B]'>activité </strong> de <strong className='text-[#F60D2B]'>livraison.</strong></h1>
 
             </div>
             <div className="w-full  text-white relative  grid  gap-4 grid-cols-3 ">
@@ -65,7 +65,7 @@ function Restaurant() {
                         <BsClockHistory/>
                     </div> */}
                     <h1 className='my-4  text-2xl font-semibold'>Apportez des changements à votre entreprise selon votre propre calendrier.</h1>
-                    <p>Modifiez votre menu, changez vos horaires, ajoutez des promotions et obtenez de l'aide à chaque fois que vous en avez besoin - tout cela en un seul clic.</p>
+                    <p>Modifiez votre menu, changez vos horaires, ajoutez des promotions et obtenez de l&apos;aide à chaque fois que vous en avez besoin - tout cela en un seul clic.</p>
                 
                 </div>
                 <div className='bg-[#f0f0f0] drop-shadow-md text-[#181818] text-center p-8 flex flex-col justify-center items-center'>
@@ -94,7 +94,7 @@ function Restaurant() {
                     />
                     <div className='p-6 w-8 h-8 border border-white rounded-full flex items-center justify-center'>1</div>
                     <h1 className='font-bold text-2xl'>Inscrivez vous</h1>
-                    <p>Ayant activé l'option connecté, vous recevrez des courses et vous pouver l'accepter</p>
+                    <p>Ayant activé l&apos;option connecté, vous recevrez des courses et vous pouver l&apos;accepter</p>
                 </div>
                 <div className="flex justify-center items-center"> <HiOutlineArrowRight className='text-6xl text-[#ffffff]' /> </div>
                 <div className="flex gap-4 justify-center items-center text-center  flex-col text-[#ffffff]">
@@ -107,7 +107,7 @@ function Restaurant() {
                     />
                     <div className='p-6 w-8 h-8 border border-white rounded-full flex items-center justify-center'>2</div>
                     <h1 className='font-bold text-2xl'>Recherchez un repas</h1>
-                    <p>Ayant activé l'option connecté, vous recevrez des courses et vous pouver l'accepter</p>
+                    <p>Ayant activé l&apos;option connecté, vous recevrez des courses et vous pouver l&apos;accepter</p>
                 </div>
                 <div className="flex justify-center items-center"> <HiOutlineArrowRight className='text-6xl text-[#ffffff]' /> </div>
 
@@ -121,7 +121,7 @@ function Restaurant() {
                     />
                     <div className='p-6 w-8 h-8 border border-white rounded-full flex items-center justify-center'>3</div>
                     <h1 className='font-bold text-2xl'>Ajoutez au panier </h1>
-                    <p>Ayant activé l'option connecté, vous recevrez des courses et vous pouver l'accepter</p>
+                    <p>Ayant activé l&apos;option connecté, vous recevrez des courses et vous pouver l&apos;accepter</p>
                 </div>
             </div>
         </section>
@@ -139,7 +139,7 @@ function Restaurant() {
                         priority
                         className='rounded-full mb-6'
                     />
-                    <p className='mt-6'>Le premier travail que j'apprécie vraiment. Travailler à l'extérieur me procure un sentiment de liberté.</p>
+                    <p className='mt-6'>Le premier travail que j&apos;apprécie vraiment. Travailler à l&apos;extérieur me procure un sentiment de liberté.</p>
                     <h1 className='my-4  text-1xl font-semibold text-[#F60D2B]'>Babbel Kitio</h1>
                 </div>
                 <div className='rounded-md bg-[#f0f0f0] drop-shadow-md text-[#181818] text-center p-6 flex flex-col justify-center items-center'>
@@ -152,7 +152,7 @@ function Restaurant() {
                         priority
                         className='rounded-full mb-6'
                     />
-                    <p className='mt-6'>J'aime le fait que je puisse planifier mon propre temps, et la route offre beaucoup d'expérience qu'on ne peut pas acquérir autrement.</p>
+                    <p className='mt-6'>J&apos;aime le fait que je puisse planifier mon propre temps, et la route offre beaucoup d&apos;expérience qu&apos;on ne peut pas acquérir autrement.</p>
                     <h1 className='my-4  text-1xl font-semibold text-[#F60D2B]'>Victor Urbain</h1>
                 </div>
                 <div className='rounded-md bg-[#f0f0f0] drop-shadow-md text-[#181818] text-center p-6 flex flex-col justify-center items-center'>
@@ -165,7 +165,7 @@ function Restaurant() {
                         priority
                         className='rounded-full mb-6'
                     />
-                    <p className='mt-6'>'aime la flexibilité qu'offre ce travail et j'aime être au grand air.</p>
+                    <p className='mt-6'>J&apos;aime la flexibilité qu&apos;offre ce travail et j&apos;aime être au grand air.</p>
                     <h1 className='my-4  text-1xl font-semibold text-[#F60D2B]'>Alzahed Oudini</h1>
                 </div>
             </div>
@@ -173,7 +173,7 @@ function Restaurant() {
         <section className='px-32 py-16 bg-[#ffffff] relative'>
             <div className=" bg-[#F60D2B] p-20 rounded-3xl flex h-[60vh]">
                 <div className='flex justify-center flex-col'>
-                    <h1 className='text-4xl font-bold text-white'>Téléchargez l’application <br /> maintenant!</h1>
+                    <h1 className='text-4xl font-bold text-white'>Téléchargez l&apos;application <br /> maintenant!</h1>
                     <div className='flex gap-4 mt-8'>
                         
                         <div className=" flex px-4 py-4 gap-4 bg-[#ffffff] text-[#181818] rounded-md items-center justify-center  w-[16rem] cursor-pointer">
@@ -210,7 +210,7 @@ function Restaurant() {
         
         <section className='w-full py-14 bg-[#e7e7e7]'>
             <div className='flex flex-col justify-center items-center text-[#181818] '>
-                <h1 className='text-5xl mb-4 font-semibold'>Viens vivre l'expérience</h1>
+                <h1 className='text-5xl mb-4 font-semibold'>Viens vivre l&apos;expérience</h1>
                 <p className='mb-4'>Rejoins-nous dès aujourd’hui !</p>
                 <Link href="/inscriptionRestaurant" ><button className='px-8 py-4 gap-4 text-[#ffffff] bg-[#F60D2B] rounded-md transition-all duration-300'>Postulez dès maintenant </button></Link>
             </div>
