@@ -30,9 +30,8 @@ function Restaurant() {
                     priority
                 />
                 <h1 className='text-5xl font-semibold text-[#F60D2B] my-8'>Commandez avec <strong className='text-[#F60D2B]'>Ufood</strong></h1>
-                <h4 className='text-2xl font-semibold mb-4 text-[#181818]'>Un partenariat de confiance qui tient ses promesses.</h4>
-                <p className='text-[#181818]'>Vous pouvez générer des revenus en sillonnant les rues de votre ville pour
-                     livrer de délicieux repas avec l&apos;application UDelivery.
+                
+                <p className='text-[#181818]'>Vos menus préférés du restaurant à votre porte en un fraction de seconde !
                 </p>
                 {/* <div className='py-6'>
                     <Link href="/inscriptionDeliver"><button className='px-8 py-4 gap-4 text-[#ffffff] bg-[#252036] rounded-md hover:bg-transparent border-2 border-[#252036] hover:text-[#181818] transition-all duration-300'>Postulez dès maintenant</button> </Link>

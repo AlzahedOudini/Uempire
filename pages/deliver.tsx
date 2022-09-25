@@ -13,6 +13,7 @@ import { FaGooglePlay } from 'react-icons/fa';
 
 import FooterOther from './components/footer/footerOther';
 import Link from 'next/link';
+import Faq from './components/accordion/faq/faq';
 
 // const Link = (props: any) => <a href={props.href}>{props.children}</a>;
 
@@ -170,7 +171,7 @@ function Deliver() {
                 </Link>
             </div>
         </section>
-        
+        <Faq/>
         <FooterOther/>
        
     </div>
