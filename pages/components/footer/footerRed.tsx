@@ -8,9 +8,9 @@ function FooterRed() {
                 <Link href="/privacypolicy"><a>Politiques de Confidentialité</a></Link>
                 <Link href="/partner"><a>Devenir Partenaire</a></Link>
                 <Link href="/deliver"><a>Devenir Livreur</a></Link>
-                <Link href="/restaurant"><a>Ufood</a></Link>
+                <Link href="/ufood"><a>UFood</a></Link>
             </div>
-            <div className='mt-16 md:mt-0'>Copyright © 2022 UEmpire. All rights reserved.</div>
+            <div className='mt-16 lg:mt-0'>Copyright © 2022 UEmpire. All rights reserved.</div>
         </div>
     </div>
   )

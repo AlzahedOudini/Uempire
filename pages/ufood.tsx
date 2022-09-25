@@ -320,7 +320,7 @@ function Ufood() {
                     <div className='text-white grid content-end w-full h-full p-6 bg-[#1818183f] rounded-xl'>
                         <h1 className='capitalize text-2xl font-bold mb-4'>Livrez avec nous</h1>
                         <p className='mb-3'>La liberté d&apos;adapter le travail à votre vie. Sans oublier des honoraires, des avantages et des remises exceptionnels.</p>
-                        <Link href="/restaurant">
+                        <Link href="/deliver">
                             <button className='flex gap-2 justify-center items-center text-[#181818] px-6 py-4 bg-white  hover:bg-[#F60D2B] transition-all group hover:text-white rounded-md w-[12rem] max-w-[12rem]'>Commencer <BsArrowRightShort className='text-[#F60D2B] transition-all group-hover:text-white text-2xl'/></button>
                         </Link>
                         
@@ -337,7 +337,7 @@ function Ufood() {
                         <AccordionItem >
                             <h2 >
                             <AccordionButton _expanded={{ bg: 'transparent', color: '#F60D2B' }}>
-                                <Box flex='1' textAlign='left' className='text-[1.25rem]'>
+                                <Box flex='1' textAlign='left' className='text-[1.25rem] font-bold'>
                                 Comment fonctionne la livraison avec UFood ?
                                 </Box>
                                 <AccordionIcon />
@@ -354,7 +354,7 @@ function Ufood() {
                         <AccordionItem>
                             <h2>
                             <AccordionButton _expanded={{ bg: 'transparent', color: '#F60D2B' }}>
-                                <Box flex='1' textAlign='left' className='text-[1.25rem]'>
+                                <Box flex='1' textAlign='left' className='text-[1.25rem] font-bold'>
                                 Quelles sont les villes que supporte UFood ?
                                 </Box>
                                 <AccordionIcon />
@@ -370,7 +370,7 @@ function Ufood() {
                         <AccordionItem>
                             <h2>
                             <AccordionButton _expanded={{ bg: 'transparent', color: '#F60D2B' }}>
-                                <Box flex='1' textAlign='left' className='text-[1.25rem]'>
+                                <Box flex='1' textAlign='left' className='text-[1.25rem] font-bold'>
                                 Quels sont les délais de livraison ?
                                 </Box>
                                 <AccordionIcon />
@@ -386,7 +386,7 @@ function Ufood() {
                         <AccordionItem>
                             <h2>
                             <AccordionButton _expanded={{ bg: 'transparent', color: '#F60D2B' }}>
-                                <Box flex='1' textAlign='left' className='text-[1.25rem]'>
+                                <Box flex='1' textAlign='left' className='text-[1.25rem] font-bold'>
                                 Puis-je modifier mon adresse de livraison ?
                                 </Box>
                                 <AccordionIcon />
