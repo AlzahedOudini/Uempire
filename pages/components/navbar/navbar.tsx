@@ -64,8 +64,9 @@ function Navbar() {
                 </Link>
                 <ul className='menu'>
                     
+                    
                     <Link href="/"><li className={asPath === "/" ? "NavLink active-link" : "NavLink"}>Accueil</li></Link>
-                    <Link href="/about"><li className={asPath === "/about" ? "NavLink active-link" : "NavLink"}>A Propos</li></Link>
+                    <Link href="/about"><li className={asPath === "/about" ? "NavLink active-link" : "NavLink"}>À Propos</li></Link>
                     <Link href="/services"><li className={asPath === "/services" ? "NavLink active-link" : "NavLink"}>Services</li></Link>
                     <Link href="/project"><li className={asPath === "/project" ? "NavLink active-link" : "NavLink"}>Projets</li></Link>
                     <Link href="/contact"><li className={asPath === "/contact" ? "NavLink active-link" : "NavLink"}>Contact</li></Link>
@@ -73,14 +74,6 @@ function Navbar() {
                     <div className=' cursor-pointer flex justify-center items-center  w-[26px] h-[26px] rounded-full ml-10'  onClick={countryClick}>
                         {isHideIcon ? 
                             (
-                                // <Image
-                                //     src={kingdom}
-                                //     alt='/'
-                                //     width='26'
-                                //     height='26'
-                                //     priority
-                                //     className=''
-                                // />
                                 isScrolled ? (
                                     <div className='flex gap-[4px] justify-center items-center'>
                                         <TbWorld className='text-black'/>
@@ -89,22 +82,14 @@ function Navbar() {
                                 ):
                                 (
                                     <div className='flex gap-[4px] justify-center items-center'>
-                                        <TbWorld/>
-                                        <p>EN</p>
+                                        <TbWorld className='text-white'/>
+                                        <p className='text-white'>EN</p>
                                     </div>
                                 )
                                 
                                 
                             ): 
                             (
-                                // <Image
-                                //     src={frensh}
-                                //     alt='/'
-                                //     width='26'
-                                //     height='26'
-                                //     priority
-                                //     className=''
-                                // />
                                 isScrolled ? (
                                     <div className='flex gap-[4px] justify-center items-center'>
                                         <TbWorld className='text-black'/>
@@ -113,8 +98,8 @@ function Navbar() {
                                 ):
                                 (
                                     <div className='flex gap-[4px] justify-center items-center'>
-                                        <TbWorld/>
-                                        <p>FR</p>
+                                        <TbWorld className='text-white'/>
+                                        <p className='text-white'>FR</p>
                                     </div>
                                 )
                                 

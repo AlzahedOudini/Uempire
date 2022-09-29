@@ -21,11 +21,11 @@ function Aboutsec() {
             />
         </div>
         <div className='boxText sm: items-center sm: justify-center ' data-aos='fade-up' data-aos-delay='300'>
-            <h1 className='about_title'>Mot du fondateur</h1>
+            <h1 className='about_title'>Mot Du Fondateur</h1>
             <p className='descrip text-justify'>
             <strong>UEMPIRE</strong>, <br /> <br />
 
-            L&apos;Empire Urbain est un rêve qui se réalise. <br />
+            L&apos;Empire de Urbain est un rêve qui se réalise. <br />
             
             Depuis ma tendre enfance, j&apos;ai toujours souhaité contribuer à ma manière à la création des solutions technologiques modernes et adaptées aux populations, capables de répondre à leur besoin. C&apos;est de cette volonté que nait <strong>UEMPIRE</strong>. 
 
@@ -34,10 +34,12 @@ function Aboutsec() {
             Concevoir et réaliser des solutions web et mobiles sur mesure pour rendre notre clientèle   leader dans leurs secteurs d&apos;activité.
             
             Organisme gouvernemental et non gouvernemental, entreprises privées et publiques, votre confiance nous honore !
+            <br /> <br />
+            Victor Urbain, Le Fondateur. 
 
             </p><br/><br/>
             
-            <button className='devi_btn' onClick={() => router.push('mailto:info@uempire.ca')}>Demander un Devi</button>
+            <button className='devi_btn' onClick={() => router.push('mailto:info@uempire.ca')}>Contactez-nous !</button>
         </div>
     </section>
   )

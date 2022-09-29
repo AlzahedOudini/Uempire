@@ -19,7 +19,7 @@ function Hero() {
                   nous ferons passer votre marque au niveau supérieur.
               </p>
               <button className='devi_btn whitebtn'>
-                    <Link href="/project" >Voir nos travaux </Link>
+                    <Link href="/project" >Consulter nos réalisations</Link>
               </button>
             </div>
             <div className='heroDown'>

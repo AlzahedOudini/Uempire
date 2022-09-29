@@ -10,11 +10,10 @@ function Devis() {
       <div className='boxDevis' data-aos='fade-up' data-aos-delay='300' data-aos-duration="1000">
         <h1 className='quest'>Avez-vous un projet à réaliser ?</h1>
         <div className='descDev'>
-        <p className='devis_desc'  >le suivant.
-          Vous avez un projet en tête et vous ne savez par où commencer ? Nous avons peut-être une solution pour vous.
+        <p className='devis_desc'  >Vous avez un plan de projet et vous ne savez par où commencer. Nous sommes là pour vous, contacter nous !
         </p>
         </div>
-        <button className='devi_btn' onClick={() => router.push('mailto:info@uempire.ca')}>Demander un Devi</button>
+        <button className='devi_btn' onClick={() => router.push('mailto:info@uempire.ca')}>Contacter nous !</button>
       </div>
     </section>
   )

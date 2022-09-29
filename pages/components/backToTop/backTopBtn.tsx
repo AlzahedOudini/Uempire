@@ -26,7 +26,7 @@ function BackTopBtn() {
   return (
     <div>
         {backTopBtn && (
-            <div className='w-16 h-16 rounded-full bg-[#181818] flex justify-center items-center hover:bg-[#FFB040]  ease-in duration-300 fixed bottom-10 right-10 z-50' onClick={scrollUp}><AiOutlineArrowUp className='text-2xl '/></div>
+            <div className='w-16 h-16 rounded-full bg-[#181818] flex justify-center items-center hover:bg-[#FFB040]  ease-in duration-300 fixed bottom-10 right-10 z-50' onClick={scrollUp}><AiOutlineArrowUp className='text-2xl text-white'/></div>
         )}
     </div>
   )

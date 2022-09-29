@@ -8,7 +8,7 @@ function ServiceSec() {
         <section className='Myserv mysection'>
             <div className='box_head_title'>
                 <p className='mini-title' data-aos='fade-up' data-aos-delay='300' data-aos-duration="1000">Nos services</p>
-                <h1 className='all_title ' data-aos='fade-up' data-aos-delay='300'>Notre expertise offerte pour vous</h1>
+                <h1 className='all_title ' data-aos='fade-up' data-aos-delay='300'>Toute notre expertise pour un service de qualité  </h1>
                 <div className='Cardbox'>
                     <ServList/>
                 </div>

@@ -8,6 +8,7 @@ import Footer from './components/footer/footer';
 
 import Partner from './components/partner/partner';
 import BackTopBtn from './components/backToTop/backTopBtn';
+import SimpleNav from './components/navbar/simpleNav';
 
 function About() {
   
@@ -16,7 +17,7 @@ function About() {
       <Navbar/>
       <section className="whoweare">
         <div className="bxtext" data-aos='fade-right' data-aos-delay='500'>
-            <h1 className="title" >Qui sommes nous ?</h1>
+            <h1 className="title" >Ce qui nous rend unique</h1>
             <p className="textdes text-justify" >
             {/* Nous sommes une société de services informatiques à part entière qui ouvre de nouvelles possibilités et qui remodèle
              la génération axée sur la technologie. Chez <strong>UEmpire</strong>, nous croyons fermement à l'instauration de la confiance
@@ -26,19 +27,16 @@ function About() {
               d'experts élabore des plans de travail personnalisés en tenant compte de la vigueur du marché. Nous 
               essayons constamment de faire preuve d'excellence dans tous les projets complexes afin d'encadrer
                et d'amplifier les capacités exceptionnelles d'une manière agile. */}
-               <strong>UEMPIRE</strong> se veut être une entreprise de proposition de services technologiques axée sur l&apos;innovation, la créativité et l&apos;efficacité.
+               <strong>UEMPIRE</strong> se veut être une entreprise de proposition de services technologiques axée sur l&apos;innovation, l&apos;efficacité et la créativité. 
 
-              Elle est constituée de jeunes, qui excellent chacun dans son domaine, et produit des systèmes informatiques robustes et sécurisées répondant à des problématiques courantes de bien-être des populations : nutrition, transport, accessibilité, et sciences humaines.   
+              <br /> <br /> Chez UEMPIRE, nous appliquons une approche axée sur l&apos;humain, pour créer des solutions numériques, bâtir nos équipes et établir notre relation cliente.
 
-              <br /> Chez UEMPIRE, nous appliquons une approche axée sur l&apos;humain, pour créer des solutions numériques, bâtir nos équipes et établir notre relation cliente.
-
-              UEMPIRE, la garantie d&apos;un service de qualité ! <br />
-
-              <strong>Notre Mission:</strong> proposer des solutions numériques robustes, accessibles et adaptées à chaque environnement.   <br />
-
-              <strong>Notre Vision:</strong> se situer parmi les meilleures entreprises de conception des solutions digitales et innovantes pour une amélioration continue de l&apos;expérience humain.<br />
-
-              <strong>Nos Valeurs:</strong> Humain, Détermination, Respect, Innovation, Passion.  
+              Elle est composée de jeunes, dynamiques et engagés, excellent chacun dans un domaine, dont l&apos;objectif est de produire des systèmes informatiques robustes et sécurisées, répondant aux problématiques courantes de bien-être des populations : nutrition, sécurité, accessibilité, et sciences humaines.   
+              <br /> <br />
+              Chez UEMPIRE, nous appliquons une approche axée sur l&apos;humain, pour créer des solutions numériques et bâtir nos équipes afin d&apos;établir une relation cliente efficace.
+              <br /><br />
+              UEMPIRE, la garantie d’un service de qualité !
+              
 
             </p>
         </div>

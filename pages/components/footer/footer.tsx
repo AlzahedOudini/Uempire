@@ -22,23 +22,23 @@ function Footer() {
             />
         </Link>
         <p className='copyr'>
-            Copyright © 2022 UEmpire. All rights reserved.
+        Copyright © 2022 UEMPIRE COMPANY. All rights reserved  
         </p>
         </div>
         <div className='FooterBox2' data-aos='fade-up' data-aos-delay='300'>
             <h5 className='FooterTitle'>Liens Rapides</h5>
             <div className='boxLink'>
                 <Link href="/about"><a className='NavLink'>A Propos</a></Link>
-                <Link href="/services"><a className='NavLink'>Services</a></Link>
-                <Link href="/project"><a className='NavLink'>Projets</a></Link>
-                <Link href="/contact"><a className='NavLink'>Contact</a></Link>
+                <Link href="/services"><a className='NavLink'>Nos Services</a></Link>
+                <Link href="/project"><a className='NavLink'>Nos Réalisations </a></Link>
+                <Link href="/contact"><a className='NavLink'>Contactez-nous</a></Link>
              </div>
         </div>
         <div className='FooterBox3' data-aos='fade-up' data-aos-delay='300'>
             <h5 className='FooterTitle'>Entreprise</h5>
             <div className='boxLink'>
                 <Link href="/privacypolicy"><a>Politiques de Confidentialité</a></Link>
-                <Link href="/partner"><a>Ajouter votre Restaurant</a></Link>
+                <Link href="/partner"><a>Vous êtes un restaurant ? </a></Link>
                 <Link href="/deliver"><a>Devenir Livreur</a></Link>
                 <Link href="/ufood"><a>UFood</a></Link>
                 
