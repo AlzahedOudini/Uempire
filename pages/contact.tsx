@@ -32,7 +32,7 @@ function Contact() {
                   <Input placeholder='Email' size='lg' focusBorderColor='#efedea'/>
               </div>
               <div>
-                <Textarea placeholder='Votre message ici' focusBorderColor='#efedea' />
+                <Textarea placeholder='Votre message ici'  size='lg' focusBorderColor='#efedea' />
               </div>
             </div>
             <button className='devi_btn mt-4' type='submit'>Envouye le message</button>
