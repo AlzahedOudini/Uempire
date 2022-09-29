@@ -421,7 +421,7 @@ function Ufood() {
             <div className='flex flex-col justify-center text-center items-center text-[#181818] '>
                 <h1 className='text-4xl mb-4 font-semibold'>Viens vivre l&apos;expérience</h1>
                 <p className='mb-4'>Rejoins-nous dès aujourd’hui !</p>
-                <Link href="/inscriptionRestaurant" ><button className='px-8 py-4 gap-4 text-[#ffffff] bg-[#F60D2B] rounded-md transition-all duration-300'>Postulez dès maintenant </button></Link>
+                <Link href="/ufood" ><button className='px-8 py-4 gap-4 text-[#ffffff] bg-[#F60D2B] rounded-md transition-all duration-300'>Postulez dès maintenant </button></Link>
             </div>
         </section>
         <FooterRed/> 

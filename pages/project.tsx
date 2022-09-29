@@ -13,7 +13,7 @@ function Project() {
     <div>
       <Navbar/>
       <section className='privsection'>
-        <h1 className='text-4xl font-bold mb-10' data-aos='fade-up' data-aos-delay='300' data-aos-duration="500">Nos Projets.</h1>
+        <h1 className='text-4xl font-bold mb-10' data-aos='fade-up' data-aos-delay='300' data-aos-duration="500">Voici quelques-unes de nos réalisations .</h1>
         <p className='mb-10'data-aos='fade-up' data-aos-delay='300' >Nous travaillons sur des plateformes dédiées besoins des populations.
          Nos solutions proviennent de plusieurs domaines et sont multi-plateformes. Vous avez des questions ? N&apos;hésitez pas, contactez-nous!
         </p>
