@@ -83,20 +83,20 @@ function Deliver() {
         <section className="bg-[url('https://img.freepik.com/free-photo/food-delivery-man-with-boxes-with-food_1303-27723.jpg?w=900&t=st=1664379946~exp=1664380546~hmac=e0380de7ed89e6f1d712d581ae25a1ecf1ea59c3394a7f974ec6275d44814dbe')] w-full md:h-[80vh] h-[100vh]  bg-cover bg-no-repeat bg-center   relative my-bg px-8 py-8 lg:px-32 lg:py-12'">
             
         </section>
-        <div className='flex  h-auto flex-col justify-center items-center absolute lg:top-[30vh] top-[10%] text-[#ffffff] text-center  z-10'>
-            <div className='w-[100%] md:w-[70%] lg:w-[80%] px-8 py-8'>
-                <h1 className='text-4xl md:text-4xl lg:text-6xl font-bold mb-4'>Livrez avec UDelivery</h1>
+        <div className='flex  h-auto flex-col justify-center items-center absolute lg:top-[30vh] top-[12rem] text-[#ffffff] text-center  z-10'>
+            <div className='w-[100%] md:w-[70%] lg:w-[80%] p-8 font-bold'>
+                <h1 className='text-4xl md:text-4xl lg:text-6xl  mb-4'>Livrez avec UDelivery</h1>
                 <h4 className='text-xl font-semibold mb-4'>Pas de patron, Des horaires flexibles, Des paiements rapides.
                 Vous pouvez générer des revenus en sillonnant les rues de votre ville pour
                     livrer de délicieux repas avec l&apos;application UDelivery.
                 </h4>
                 
-                <div className=''>
-                    <button onClick={onOpen} className='px-8 py-4 gap-4 text-[#ffffff] md:text-2xl text-xl   rounded-md bg-transparent border-2 border-[#ffffff] hover:border-[#252036] hover:bg-[#252036]  transition-all duration-300'>Postulez maintenant</button>
+                <div className='py-4'>
+                    <button onClick={onOpen} className='p-8 gap-4 text-[#ffffff] md:text-2xl text-xl   rounded-md bg-transparent border-2 border-[#ffffff] hover:border-[#252036] hover:bg-[#252036]  transition-all duration-300'>Postulez maintenant</button>
                 </div>
             </div>
         </div>
-        <section className='px-8 py-8 md:px-8 md:py-8 lg:px-32 lg:py-12 bg-[#ffffff]'>
+        <section className='p-8  md:px-8 md:py-8 lg:px-32 lg:py-12 bg-[#ffffff]'>
             <div className=" text-white relative  grid  gap-4 grid-cols-1 lg:grid-cols-3 md:grid-cols-2">
                  <div className='bg-[#ffffff] drop-shadow-md text-[#181818] text-center p-8 flex flex-col justify-center items-center'>
                
@@ -123,7 +123,7 @@ function Deliver() {
                 </div>
             </div>
         </section>
-        <section className='px-8 py-8 bg-[#252036] lg:py-16'>
+        <section className='p-8 bg-[#252036] lg:py-16'>
             <h1 className='text-4xl font-semibold text-center text-[#ffffff] my-4 '>Comment ça marche</h1>
             <p className='text-center text-[#ffffff] mb-10'>Une fois que vous avez rejoint Udelivery, voici ce qui vous attend.</p>
             <div className=" justify-center items-center relative hidden lg:flex"> <HiOutlineArrowRight className='text-6xl text-[#ffffff] lg:absolute left-[31%] top-[30vh] ' /> </div>
