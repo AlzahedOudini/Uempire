@@ -227,7 +227,7 @@ function Deliver() {
                     <div className='mb-3 flex items-center justify-center'>
                         <IoMdBicycle className='text-4xl text-[#252036] font-bold '/>
                     </div>
-                    <h1 className='my-4 text-2xl font-semibold'>Livraison à vélo ou à pied</h1>
+                    <h1 className='my-4 text-2xl font-semibold'>Livraison à vélo</h1>
                     <div className='mt-4'>
                         <div className='flex gap-4 mb-2'>
                             <div className='min-w-10 min-h-10'><AiOutlineCheckCircle className='text-3xl  text-green-600'/></div>
