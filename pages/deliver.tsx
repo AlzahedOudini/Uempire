@@ -430,31 +430,31 @@ function Deliver() {
                                         </Select>
                                     </div>
                                     <div>
-                                        <label htmlFor="" className='block w-full'>
+                                        <label htmlFor="" className='block w-full mb-4'>
                                             <p>CNI Recto*</p>
                                             <input type="file"  className='bg-[#eeeeee] w-full p-4 rounded-lg px-4 mytextfiel' name='user_firstname' placeholder='cni'/>
                                         </label>
                                     </div>
                                     <div>
-                                        <label htmlFor="" className='block w-full'>
+                                        <label htmlFor="" className='block w-full mb-4'>
                                             <p>CNI Verso*</p>
                                             <input type="file"  className='bg-[#eeeeee] w-full p-4 rounded-lg px-4 mytextfiel' name='user_firstname' placeholder='cni'/>
                                         </label>
                                     </div>
                                     <div>
-                                        <label htmlFor="" className='block w-full'>
+                                        <label htmlFor="" className='block w-full mb-4'>
                                             <p>Permi de conduire*</p>
                                             <input type="file"  className='bg-[#eeeeee] w-full p-4 rounded-lg px-4 mytextfiel' name='user_firstname' placeholder='Permi'/>
                                         </label>
                                     </div>
                                     <div>
-                                        <label htmlFor="" className='block w-full'>
+                                        <label htmlFor="" className='block w-full mb-4'>
                                             <p>Plan de localisation*</p>
                                             <input type="file"  className='bg-[#eeeeee] w-full p-4 rounded-lg px-4 mytextfiel' name='user_firstname' placeholder='Permi'/>
                                         </label>
                                     </div>
                                     <div className='mb-4 mt-4'>
-                                        <label htmlFor="" className='block w-full'>
+                                        <label htmlFor="" className='block w-full mb-4'>
                                             <p>Message</p>
                                             <Textarea placeholder='Votre message ici' focusBorderColor='#efedea' />
                                         </label>

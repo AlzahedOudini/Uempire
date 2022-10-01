@@ -68,61 +68,7 @@ function Partner() {
             
             
         </section>
-        <section className=' sm:py-16 bg-[#fafafa] '>
-            <div className='lg:w-[70%] lg:mt-[-2rem] text-center lg:text-left  px-8 py-8 lg:px-32 lg:py-12'>
-                <h1 className='text-4xl font-bold text-[#181818] mb-4'><strong className='text-[#F60D2B]'>Commandez</strong> et faites vous <strong className='text-[#F60D2B]'>livrer</strong> avec UFood. </h1>
-                <p className='text-[#181818] '>Vos menus préférés du restaurant à votre porte en un fraction de seconde !</p>
-            </div>
-        </section>
-        <section className='flex justify-center items-center py-8 md:p-0 bg-[#fafafa]'>
-            <div className='w-[60vh] px-8 py-8 lg:top-[3%] lg:right-32  lg:min-w-[60vh]  lg:w-[60vh] shadow-lg rounded-xl bg-white lg:absolute'>
-                <h1 className='text-2xl font-bold text-[#181818] my-2 text-center'>Rejoignez-nous maintenant !</h1>
-                <form className='bg-red w-full  mt-6 shadow-primary' data-aos='fade-up' data-aos-delay='300' data-aos-duration="2000">
-                    <div className=''>
-                        
-                        <div className='mb-4'>
-                            <Input placeholder='Prénom' size='lg' focusBorderColor='#efedea'/> 
-                        </div>
-                        <div className='mb-4'>
-                            <Input placeholder='Nom' size='lg' focusBorderColor='#efedea'/>   
-                        </div>
-                        <div className='mb-4'>
-                        <div className='mb-4'>
-                            <Input placeholder='Nom du restaurant' size='lg' focusBorderColor='#efedea'/> 
-                        </div>
-                        <InputGroup>
-                            <Input type='tel' size='lg' placeholder='Phone number' focusBorderColor='#efedea'/>
-                        </InputGroup>
-                        </div>
-                        <div className='mb-4'>
-                            <Input placeholder='Email' size='lg' focusBorderColor='#efedea'/>
-                        </div>
-                        <div className='mb-4'>
-                            <Input placeholder='Pays' size='lg' focusBorderColor='#efedea'/>
-                        </div>
-                        <div className='mb-6'>
-                            <Select placeholder='Ville' size='lg' focusBorderColor='#efedea' >
-                                <option value='option1'>Douala</option>
-                                <option value='option2'>Yaoundé</option>
-                                <option value='option3'>Bafoussam</option>
-                            </Select>
-                        </div>
-                        <div className='mb-4'>
-                            <Input placeholder='Quartier' size='lg' focusBorderColor='#efedea'/> 
-                        </div>
-                        <div className='flex gap-2 items-start '>
-                            <Checkbox colorScheme='red' size='lg' className='mt-1'></Checkbox>
-                            <p className='text-[14px] '>J&apos;accepte les conditions d&apos;utilisation et le faite 
-                                que mes données peuvent être utilisées à des fins publicitaires</p>
-                        </div>
-                    </div>
-                    <div className='w-full flex justify-center items-center mt-4'>
-                        <button className='w-full text-center px-8 py-4 gap-4 text-[#ffffff] bg-[#F60D2B]  hover:bg-transparent transition-all hover:text-[#F60D2B] border border-[#F60D2B] rounded-md mt-4 ' type='submit'>Rejoignez-nous maintenant!</button>
-
-                    </div>
-                </form>
-            </div>
-        </section>
+        
     </div>
   )
 }

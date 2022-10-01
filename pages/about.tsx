@@ -32,7 +32,6 @@ function About() {
                <strong>UEMPIRE</strong> se veut être une entreprise de proposition de services technologiques axée sur l&apos;innovation, l&apos;efficacité et la créativité. 
 
               <br /> <br /> Chez UEMPIRE, nous appliquons une approche axée sur l&apos;humain, pour créer des solutions numériques, bâtir nos équipes et établir notre relation cliente.
-
               Elle est composée de jeunes, dynamiques et engagés, excellent chacun dans un domaine, dont l&apos;objectif est de produire des systèmes informatiques robustes et sécurisées, répondant aux problématiques courantes de bien-être des populations : nutrition, sécurité, accessibilité, et sciences humaines.   
               <br /> <br />
               Chez UEMPIRE, nous appliquons une approche axée sur l&apos;humain, pour créer des solutions numériques et bâtir nos équipes afin d&apos;établir une relation cliente efficace.
