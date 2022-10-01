@@ -401,7 +401,7 @@ function Deliver() {
                         <ModalContent>
                         <ModalHeader>S&apos;enregistrer</ModalHeader>
                         <ModalCloseButton />
-                        <ModalBody pb={6} className='bg-scroll flex justify-center'>
+                        <ModalBody pb={6} className='bg-scroll flex justify-center '>
                             <form className='bg-red w-full md:w-[50%] mt-6 shadow-primary' data-aos='fade-up' data-aos-delay='300' data-aos-duration="2000">
                                 <div className=''>
                                     

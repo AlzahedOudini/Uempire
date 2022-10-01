@@ -40,8 +40,8 @@ function Ufood() {
             {/* <Image
                 src={myUfood}
                 alt='/'
-                width='100'
-                height='100'
+                width='60'
+                height='60'
                 priority
                 className='immmg'
             /> */}
