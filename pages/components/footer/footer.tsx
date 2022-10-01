@@ -38,8 +38,8 @@ function Footer() {
             <h5 className='FooterTitle'>Entreprise</h5>
             <div className='boxLink'>
                 <Link href="/privacypolicy"><a>Politiques de Confidentialité</a></Link>
-                <Link href="/partner"><a>Vous êtes un restaurant ? </a></Link>
-                <Link href="/deliver"><a>Devenir Livreur</a></Link>
+                <Link href="/partner"><a>Carrières</a></Link>
+                <Link href="/deliver"><a>UDelivery</a></Link>
                 <Link href="/ufood"><a>UFood</a></Link>
                 
             </div>

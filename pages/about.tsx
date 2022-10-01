@@ -9,12 +9,14 @@ import Footer from './components/footer/footer';
 import Partner from './components/partner/partner';
 import BackTopBtn from './components/backToTop/backTopBtn';
 import SimpleNav from './components/navbar/simpleNav';
+import SmallHeroAbout from './components/hero/smallHeroAbout';
 
 function About() {
   
   return (
     <div>
       <Navbar/>
+      <SmallHeroAbout/>
       <section className="whoweare">
         <div className="bxtext" data-aos='fade-right' data-aos-delay='500'>
             <h1 className="title" >Ce qui nous rend unique</h1>

@@ -478,7 +478,7 @@ function Deliver() {
                                     </div> */}
                                 </div>
                                 <div className='w-full flex justify-center items-center mt-4'>
-                                    <button className='w-full text-center px-8 py-4 gap-4 text-[#ffffff] bg-[#252036]  hover:bg-transparent transition-all  rounded-md mt-4 ' type='submit'>Enregistrer</button>
+                                    <button className='w-full text-center px-8 py-4 gap-4 text-[#ffffff] bg-[#252036] border-[#252036] border-2 hover:text-[#252036]  hover:bg-transparent transition-all  rounded-md mt-4 ' type='submit'>Enregistrer</button>
 
                                 </div>
                             </form>

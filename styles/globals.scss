@@ -254,7 +254,7 @@ p{
       text-align: center;
       gap: 1.5rem;
       .NavLink{
-          color: #181818;
+          color: #ffffff;
           text-decoration: none;
           cursor: pointer;
           transition: all .2s ease-in-out;
@@ -275,6 +275,7 @@ p{
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.075);
   
   .NavLink{
+    color: #181818 !important;
     transition: all .2s ease-in-out !important;
     &:hover{
       color: #FFB040 !important;
@@ -306,6 +307,7 @@ p{
 @media screen and (max-width: 760px){
   .menu{
     .NavLink{
+      color: white !important;
       display: none;
       justify-content: center;
       align-items: center;
@@ -371,7 +373,7 @@ p{
 .containImgHero{
   width: 100%;
   position: relative;
-  height: 80vh;
+  height: 50vh;
   background-image: url(../pages/assets/bggg.svg);
   background-size: cover;
   background-position: center center;
@@ -394,7 +396,6 @@ p{
     .content{
       width: 60%;
       .small_hero_title{
-        font-size: 4rem;
         text-align: center;
         margin-bottom: 2rem;
       }
@@ -731,11 +732,11 @@ p{
 
 /** ************ Start Services  ***************** **/
 
-.contain-section{
-  background-color: white;
-  color: #181818;
+// .contain-section{
+//   background-color: white;
+//   color: #181818;
   
-}
+// }
 
 .myclient{
   background-color: #F9F9F9;

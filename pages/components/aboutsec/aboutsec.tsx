@@ -21,19 +21,19 @@ function Aboutsec() {
             />
         </div>
         <div className='boxText sm: items-center sm: justify-center ' data-aos='fade-up' data-aos-delay='300'>
-            <h1 className='about_title'>Mot Du Fondateur</h1>
+            <h1 className='about_title'>Mot Du CEO </h1>
             <p className='descrip text-justify'>
             <strong>UEMPIRE</strong>, <br /> <br />
 
             L&apos;Empire de Urbain est un rêve qui se réalise. <br />
             
-            Depuis ma tendre enfance, j&apos;ai toujours souhaité contribuer à ma manière à la création des solutions technologiques modernes et adaptées aux populations, capables de répondre à leur besoin. C&apos;est de cette volonté que nait <strong>UEMPIRE</strong>. 
+            Depuis mon jeune âge, j&apos;ai toujours souhaité en ma manière proposer des solutions technologiques modernes 
+            et adaptées aux besoins de nos populations. C&apos;est de cette volonté que nait UEMPIRE. <br />
+            Sa mission première est de contribuer efficacement à l&apos;épanouissement des populations, 
+            et à la croissance des entreprises, en fournissant d’une part des services de qualité 
+            taillés sur mesure, et en les accompagnant dans leur virage numérique en d’autre part. <br />
+            Organismes gouvernementaux, entreprises publiques et privées, votre CONFIANCE nous honore !
 
-            Sa mission principale est de faire de rendre notre population des personnes heureuses et habiles dans leur quotidien, en les fournissant des services de qualité, taillées à leur besoin et dans les délais impartis.
-            
-            Concevoir et réaliser des solutions web et mobiles sur mesure pour rendre notre clientèle   leader dans leurs secteurs d&apos;activité.
-            
-            Organisme gouvernemental et non gouvernemental, entreprises privées et publiques, votre confiance nous honore !
             <br /> <br />
             Victor Urbain, Le Fondateur. 
 

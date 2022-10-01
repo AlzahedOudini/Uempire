@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Victor Urbain",
-        "poste": "Fondateur",
+        "poste": "Président et CEO",
         "profilPic": "https://i.ibb.co/tKBWZQs/aiony-haust-3-TLl-97-HNJo-unsplash.jpg"
     },
     {
@@ -26,7 +26,7 @@
     {
         "id": 5,
         "name": "Emile Ngollo",
-        "poste": "Analyste informatique",
+        "poste": "Analyste fonctionnel, QA",
         "profilPic": "https://i.ibb.co/tKBWZQs/aiony-haust-3-TLl-97-HNJo-unsplash.jpg"
     }
 ]

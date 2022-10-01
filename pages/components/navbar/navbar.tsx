@@ -64,12 +64,12 @@ function Navbar() {
                 </Link>
                 <ul className='menu'>
                     
-                    
                     <Link href="/"><li className={asPath === "/" ? "NavLink active-link" : "NavLink"}>Accueil</li></Link>
                     <Link href="/about"><li className={asPath === "/about" ? "NavLink active-link" : "NavLink"}>À Propos</li></Link>
                     <Link href="/services"><li className={asPath === "/services" ? "NavLink active-link" : "NavLink"}>Services</li></Link>
-                    <Link href="/project"><li className={asPath === "/project" ? "NavLink active-link" : "NavLink"}>Projets</li></Link>
+                    <Link href="/project"><li className={asPath === "/project" ? "NavLink active-link" : "NavLink"}>Réalisations</li></Link>
                     <Link href="/contact"><li className={asPath === "/contact" ? "NavLink active-link" : "NavLink"}>Contact</li></Link>
+                    
 
                     <div className=' cursor-pointer flex justify-center items-center  w-[26px] h-[26px] rounded-full ml-10'  onClick={countryClick}>
                         {isHideIcon ? 

@@ -4,11 +4,13 @@ import BackTopBtn from './components/backToTop/backTopBtn';
 import Footer from './components/footer/footer';
 import Navbar from './components/navbar/navbar';
 import { Input, InputGroup, Textarea} from '@chakra-ui/react';
+import SmallHeroContact from './components/hero/smallHeroContact';
 
 function Contact() {
   return (
     <div>
       <Navbar/>
+      <SmallHeroContact/>
       <section className='privsection'>
         <div>
           <h1 className='text-4xl font-bold ' data-aos='fade-up' data-aos-delay='300' data-aos-duration="1000">Nous sommes impatients d&apos;avoir de vos nouvelles</h1>

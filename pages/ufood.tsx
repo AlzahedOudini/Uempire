@@ -75,7 +75,7 @@ function Ufood() {
             </div>
         </section>
         <section className='flex justify-center items-center py-8 md:p-0 bg-[#fafafa]'>
-        <div className='w-[60vh] px-8 py-8 lg:top-[3%] lg:right-32  lg:min-w-[60vh]  lg:w-[60vh] shadow-lg rounded-xl bg-white lg:absolute'>
+            <div className='w-[60vh] px-8 py-8 lg:top-[3%] lg:right-32  lg:min-w-[60vh]  lg:w-[60vh] shadow-lg rounded-xl bg-white lg:absolute'>
                 <h1 className='text-2xl font-bold text-[#181818] my-2 text-center'>Rejoignez-nous maintenant !</h1>
                 <form className='bg-red w-full  mt-6 shadow-primary' data-aos='fade-up' data-aos-delay='300' data-aos-duration="2000">
                     <div className=''>
@@ -111,7 +111,7 @@ function Ufood() {
                         </div>
                     </div>
                     <div className='w-full flex justify-center items-center mt-4'>
-                        <button className='w-full text-center px-8 py-4 gap-4 text-[#ffffff] bg-[#F60D2B]  hover:bg-transparent transition-all hover:text-[#F60D2B] border border-[#F60D2B] rounded-md mt-4 ' type='submit'>Rejoignez-nous maintenant!</button>
+                        <button className='w-full text-center px-8 py-4 gap-4 text-[#ffffff] bg-[#F60D2B]  hover:bg-transparent transition-all hover:text-[#F60D2B] border-2 border-[#F60D2B] rounded-md mt-4 ' type='submit'>Rejoignez-nous maintenant!</button>
 
                     </div>
                 </form>
