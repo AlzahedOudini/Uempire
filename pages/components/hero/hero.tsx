@@ -15,7 +15,7 @@ function Hero() {
         <div className='heroBg' data-aos='zoom-in' data-aos-delay='500'>
             <div className='content'>
               
-            <p className=' text-6xl font-black uppercase text-center' >Tout notre savoir-faire pour une <br /> digitalisation réussie !
+            <p className=' lg:text-6xl text-4xl   font-black uppercase text-center' >Tout notre savoir-faire pour une <br /> digitalisation réussie !
               </p>
               <button className='devi_btn whitebtn mt-8'>
                     <Link href="/project" >Consulter nos réalisations</Link>
