@@ -91,7 +91,7 @@ function Deliver() {
                     livrer de délicieux repas avec l&apos;application UDelivery.
                 </h4>
                 
-                <div className='py-4'>
+                <div className=''>
                     <button onClick={onOpen} className='px-8 py-4 gap-4 text-[#ffffff] md:text-2xl text-xl   rounded-md bg-transparent border-2 border-[#ffffff] hover:border-[#252036] hover:bg-[#252036]  transition-all duration-300'>Postulez maintenant</button>
                 </div>
             </div>

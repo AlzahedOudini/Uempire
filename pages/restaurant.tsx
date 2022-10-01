@@ -1,6 +1,4 @@
 import React from 'react';
-import hands from './assets/hands.svg'
-import ufood from './assets/ufood_hands.svg';
 import logoufood from './assets/logoufood.svg';
 import groupp from './assets/groupp.svg';
 import victor from './assets/victor.jpg';
@@ -43,14 +41,14 @@ function Restaurant() {
                     <div className='px-4 py-2 bg-[#F60D2B] rounded-full text-white w-[8rem] flex justify-center items-center'>Yaoundé</div>
                 </div>
             </div>
-            <div className=" bg-[#F60D2B]  relative">
+            {/* <div className=" bg-[#F60D2B]  relative">
                 <Image
                     src={ufood}
                     alt='/'
                     layout="fill"
                     priority
                 />
-            </div>
+            </div> */}
         </section>
         <section className='px-32 py-16 bg-[#ffffff]'>
             <div className='flex justify-center items-center w-full'>
